@@ -6,11 +6,16 @@ body{
     flex-direction: column;
     align-items: center;
     text-align: center;
-
+    /* The alignment of things could be better, but this was put together quickly and semi-carelessly*/
 }
 div{
     display: flex;
     flex-direction: column;
     align-items:flex-start;
 }
-
+main{
+    overflow-y: scroll;
+}
+section{
+    height: 100vh;
+}
