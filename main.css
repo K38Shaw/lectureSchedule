@@ -1,3 +1,8 @@
+@font-face {
+    font-family: pirate;
+    src: url("./battlesbridge-font/BattlesbridgeDemo-AL126.ttf");
+}
+
 body {
     background-color: #500202;
     background: linear-gradient(to right, rgb(0, 0, 0), rgb(66, 66, 66));
@@ -42,4 +47,9 @@ p {
 
 li {
     text-align: left;
+}
+
+h1,
+h3 {
+    font-family: pirate;
 }
