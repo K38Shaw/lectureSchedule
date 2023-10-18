@@ -2,6 +2,7 @@
     font-family: pirate;
     src: url("./battlesbridge-font/BattlesbridgeDemo-AL126.ttf");
 }
+
 @font-face {
     font-family: metal;
     src: url("./Metal_Mania/MetalMania-Regular.ttf");
@@ -52,14 +53,18 @@ p {
 li {
     text-align: left;
 }
-#header{
+
+#header {
     position: fixed;
     top: 5px;
     left: 10px;
     width: 500px;
     height: 250px;
+    /* temporary until close to halloween */
+    opacity: 0;
 }
-#header a{
+
+#header a {
     color: #f28e50;
     text-shadow: 0px 0px 2px #000;
     display: flex;
@@ -67,13 +72,14 @@ li {
     align-items: center;
     text-align: center;
     font-size: 1.25em;
-    font-family:'metal';
+    font-family: 'metal';
     font-weight: 600;
     position: fixed;
     top: 200px;
     left: 325px;
 }
-#header a:visited{
+
+#header a:visited {
     color: #f28e50;
     text-shadow: 2px 2px 2px #000;
     display: flex;
@@ -84,6 +90,7 @@ li {
     font-family: 'metal';
     font-weight: 600;
 }
-#header img{
+
+#header img {
     width: 500px;
 }
