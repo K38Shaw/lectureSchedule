@@ -1,5 +1,5 @@
-### Title 
+# Title
 ## Subtitle
-# comments
+# commentary
 
 using this as an example to teach someone how to write a read.me
