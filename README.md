@@ -1,5 +1,4 @@
-# Title
-## Subtitle
-# commentary
+# Lecture Schedule Website
+Built by a student for quality of life improvements in our classroom.
 
-using this as an example to teach someone how to write a read.me
+# BE A MAVERICK
